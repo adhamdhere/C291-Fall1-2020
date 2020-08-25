@@ -1,16 +1,14 @@
 /* 
- * Basic C program to print out hello world! 
- * Author: Adeel Bhutta
+ * Basic C program, Assignment 0, 8/24 
+ * Author: Advait Dhamdhere
 */
 
 #include <stdio.h>
 
 int main(void) {
-  int myNumber = 0;
-  printf("Hello: Welcome to C291!\n");
-  printf("Please enter a number and press ENTER: ");
-  scanf("%d", &myNumber);  
-  printf("Here is the number yor entered: %d\n",myNumber);
+  
+  printf("Advait Dhamdhere.\n");
+  printf("I have been alive for 7418 days.");
   return(0); 
 }
 
